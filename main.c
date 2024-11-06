@@ -1,3 +1,5 @@
+CORRIGIDO
+
 #include <stdio.h>
 #define limpar printf("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
 
